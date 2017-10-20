@@ -1,0 +1,105 @@
+.top-box{
+	width:100%;
+	height: 1.03rem;
+	
+}
+.top{
+	width:10.05rem;
+	height: 100%;
+	margin: 0 auto;
+	display: flex;
+	text-align: 1.03rem;	
+	justify-content: space-between;
+	color:#666666;
+}
+.login-world{
+	width:100%;
+	height: 3.77rem;
+	text-align: center;
+	line-height: 3.77rem;
+
+	color:#333333;
+}
+.login-world p{
+		font-size: 0.8rem;
+}
+.weixin-box{
+	width:100%;
+	height: 1.6rem;
+}
+.weixin{
+	margin: 0 auto;
+	width:9.00rem;
+	height:1.60rem;
+	border-radius: 0.9rem;
+	background: #09bb07;
+}
+.weixin a{
+	width: 100%;
+	height: 100%;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 0.6rem;
+	color: #FFFFFF;	
+}
+.weixin img{
+	width:0.89rem;
+	height: 0.68rem;
+}
+.weixin p{
+	margin-left:0.24rem;
+}
+.qita{
+	width:100%;
+	height:5.26rem;
+}
+.qita a{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: flex-end;
+}
+.qita p{
+	width:100%;
+	height: 1.75rem;
+	font-size: 0.5rem;
+	color: #999999;
+	text-align: center;
+}
+.three-box{
+	width: 100%;
+	height: 5rem;
+}
+.three{
+	width: 8.27rem;
+	height:100%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+}
+.three img{
+	display: block;
+	width: 1.63rem;
+	height: 1.54rem;
+}
+.three p{
+	font-size: 0.12rem;
+	color: #666666;
+}
+.three a{
+	display: block;
+}
+.zhuce{
+	width:100%;
+	height: 2.53rem;
+}
+.zhuce a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 2.53rem;
+	font-size: 0.12rem;
+	color:#666666;
+}
